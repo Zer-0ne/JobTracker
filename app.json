@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "JobTracker",
-    "slug": "JobTracker"
+    "slug": "JobTracker",
+    "extra": {
+      "eas": {
+        "projectId": "8d0ee81d-07e0-45bd-925a-af1208bfa066"
+      }
+    },
+    "android": {
+      "package": "com.sahil_pathan_150.JobTracker"
+    }
   }
 }
